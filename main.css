@@ -1,0 +1,45 @@
+
+
+main {
+	
+	position: absolute;
+	top: 100px;
+	right:200px;
+	left:200px;
+}
+
+	
+section {
+		background-color: #FAF5F4;
+		padding:15px;
+		margin: 25px 0;
+}
+
+	img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:15px;
+}
+section.photo {
+	background-color: #FAF5F4;
+		padding:5px;
+		margin: 25px 0;
+}
+h1 {
+
+	text-align: center;
+	
+	
+	margin: 25px 0;
+}
+#main {
+	color: white;
+	width: 750px;
+	border: 12px solid #FF003D;
+
+}
+.text-white {
+	color: white;
+}
+.
